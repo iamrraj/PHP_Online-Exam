@@ -23,3 +23,14 @@ Result Section
 
 Studnet Profile Section
 ![Imgur](https://i.imgur.com/5xT26TN.png)
+
+## Admin Section
+
+Admin Dash Board Section
+![Imgur](https://i.imgur.com/eNuH7wx.png)
+
+Student List Section
+![Imgur](https://i.imgur.com/NajsTrZ.png)
+
+Student Result Section
+![Imgur](https://i.imgur.com/fTEHh5P.png)
